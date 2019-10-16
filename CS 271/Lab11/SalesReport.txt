@@ -1,0 +1,7 @@
+                 Product #1  Product #2  Product #3  Product #4  Totals
+Salesperson #1       887.02        0.00        0.00      589.53  1476.55
+Salesperson #2      1448.90      898.70        0.00      557.82  2905.42
+Salesperson #3         0.00      331.74      936.27     1550.97  2818.98
+Salesperson #4         0.00     1745.11       35.13      730.49  2510.73
+Salesperson #5       892.67      162.87        0.00        0.00  1055.54
+        Totals      3228.59     3138.42      971.40     3428.81  10767.22
