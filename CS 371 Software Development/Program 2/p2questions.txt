@@ -1,0 +1,13 @@
+Zachary Neeley
+CS 371
+
+1) Time to complete: 1 hour.
+
+2) 
+
+	- Thought/Design: 15min
+	- Programming: 25min
+	- Debugging: 30min
+	- Total: 1Hour and 10 minutes.
+
+3) Accuracy Original Estimate: 95%

@@ -1,0 +1,17 @@
+Zachary Neeley
+Program 4
+
+
+Circle.java errors:
+
+line 33: radius needs to equal radius * factor
+Test: simpleScale
+
+line 46: use yOffset instead of xOffset
+Test: simpleMoveNegative abd simpleMove
+
+Circle2.java errors: 
+
+line 8: x and y parameters flipped
+Test: simpleMove and simpleMoveNegative
+
